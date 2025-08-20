@@ -4,7 +4,7 @@ import moment from "moment";
 import simpleGit from "simple-git";
 
 // --- CONFIGURE HERE ---
-const COMMIT_DAYS_AGO = 58; // Change to any number of days
+const COMMIT_DAYS_AGO = 1; // Change to any number of days
 const AUTHOR_NAME = "Neeraj Kumar"; // ✅ Your GitHub name (not username)
 const AUTHOR_EMAIL = "thakurneerajkumar17@gmail.com"; // ✅ Must be GitHub-verified email
 const BRANCH_NAME = "main"; // Or 'master' based on your repo
